@@ -16,13 +16,15 @@ Kigali’s growing college student population faces challenges in securing affor
 
 ## ERD (Entity-Relationship Diagram)
 
-![ERD](ERD.jpg)
+![ERD](https://github.com/user-attachments/assets/72bf1f13-dc3a-4edc-8e47-65ec8efe95e3)
+
 
 The Entity-Relationship Diagram illustrates the relationships between various entities within the platform, including users (students and landlords), properties, roommate profiles, listings, and reviews.
 
 ## BPMN (Business Process Modeling Notation)
 
-![BPMN](swimlanes.jpg)
+![swimlanes](https://github.com/user-attachments/assets/1962c0c0-c773-418c-bd3d-e3f2e2581582)
+
 
 The Business Process Model provides a workflow for both students and landlords, outlining the steps each user type follows to interact with the system, from property posting to searching and connecting with roommates.
 
